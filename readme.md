@@ -23,3 +23,8 @@ python generating_images.py {track}
     - each line in output.txt is a given segments colour in [r g b]
         - space delimited and floats between 0 and 1 (multiply by 255 to get usual [0...255] range of RGB)
         - I have attached an example
+     
+    
+
+https://github.com/GeraldFreis/ColourGeneratorFromSongs/assets/91832029/cd6a9273-facf-4625-90cf-db7f6942f797
+
