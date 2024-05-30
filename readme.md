@@ -26,5 +26,8 @@ python generating_images.py {track}
      
     
 
-https://github.com/GeraldFreis/ColourGeneratorFromSongs/assets/91832029/cd6a9273-facf-4625-90cf-db7f6942f797
+
+
+https://github.com/GeraldFreis/ColourGeneratorFromSongs/assets/91832029/50cbbd3d-9d0f-4abe-9e7e-edf9b1a5b874
+
 
